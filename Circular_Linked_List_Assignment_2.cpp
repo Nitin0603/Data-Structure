@@ -1,3 +1,6 @@
+
+// Name - Nitin             SID - 21105091              Branch - ECE
+
 /* [Question.1] While traversing a single-circular linked list, which condition establishes that the traversing element/variable has reached the first element? */
 
 //[Ans.1]
